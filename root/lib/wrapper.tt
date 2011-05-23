@@ -108,7 +108,9 @@ Criado por <a href="http://www.opendatabr.org/">OpenData-BR</a>.
 </td><td>
 <a href="http://www.opendefinition.org/okd/"> 
 <img src="http://assets.okfn.org/images/ok_buttons/od_80x15_blue.png" alt="Open Data" /> </a>
-</td><td align="right">
+</td>
+<td><a href="http://www.catalystframework.org/"><img src="http://wiki.catalystframework.org/wiki-static/catalyst.png"/></a></td>
+<td align="right">
 <a href="/todo">todo</a>&nbsp;&nbsp;&nbsp;|
 <a href="/faq">faq</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="/contato">contato</a>
 </td></tr></table>
